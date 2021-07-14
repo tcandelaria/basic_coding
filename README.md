@@ -1,2 +1,2 @@
 # basic_coding
-testing some basic codes to test
+Testing some basic codes for "LPyTHW"
